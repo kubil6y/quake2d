@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa5dfb2a459d9289d80d7985ea7a6743, type: 3}
+  m_Name: Weapon_AK47
+  m_EditorClassIdentifier: 
+  weaponName: Kalasnikov
+  isSingleFire: 0
+  bulletAmount: 1
+  spreadAngle: 5
+  damage: 25
+  damageRange: 7
+  critChance: 0.25
+  delayBetweenRounds: 0.1
+  projectileSpeed: 20
+  ammoCapacity: 30
+  shotFiredClip: {fileID: 8300000, guid: 89b9c2c26176b4601877fee7585950d4, type: 3}
