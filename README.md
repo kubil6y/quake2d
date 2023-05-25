@@ -15,6 +15,7 @@ Keybindings:
 | Keybinding    | Description              |
 | ------------- | ------------------------ |
 | WASD          | Movement                 |
+| Space         | Jump                     |
 | LShift        | Dash                     |
 | LCtrl         | Crouch/Slide             |
 | Mouse1        | Shoot                    |
