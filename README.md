@@ -19,6 +19,7 @@ Keybindings:
 | LCtrl         | Crouch/Slide             |
 | Mouse1        | Shoot                    |
 | Mouse2        | MaxPayne Effect          |
+| E             | Interaction              |
 | Q             | Swap to last used weapon |
 | 1,2,3,4,5     | Change weapon            |
 | MWheelup/down | Change weapon            |
